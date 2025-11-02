@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **yosoromao/yosoromao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,34 +16,26 @@ Here are some ideas to get you started:
 <!-- 这是一个注释，它不会显示在您的主页上。善用注释来组织您的代码！ -->
 
 <!-- 顶部欢迎语和动态 GIF -->
-<h1 align="center">
-  Hi there, I'm yosoromao 👋
-</h1>
 <p align="center">
   <a href="https://github.com/yosoromao">
     <!-- 您可以在网上找一个喜欢的 GIF 替换下面的链接 -->
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28%">
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajIxcmZ2a2d3enh6bWFzcDdjdm5nM3ZlMjk5eGJyODU2czlzNDU2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TrgAAwTiTfHhhH40jJ/giphy.gif" width="28%">
   </a>
 </p>
 
 <!-- 个人简介 -->
 <p align="center">
-  I'm a passionate developer from [Your City/Country].<br>
-  欢迎来到我的 GitHub 主页！
+  hallo happy party!!!
 </p>
 
 ---
 
 ### 👨‍💻 关于我 (About Me)
 
-- 🌱 我最近在学习 **[您正在学习的技术, e.g., Rust, Go, AI...]**
-- 🔭 我目前正在参与项目 **[您的项目名称或描述]**
-- 👯 我希望与他人合作 **[您想合作的项目类型, e.g., 开源项目, Web App...]**
-- 🤔 我正在寻找关于 **[您需要帮助的问题]** 的帮助
-- 💬 可以问我关于 **[您擅长的领域, e.g., Python, 前端开发...]** 的任何问题
-- 📫 如何联系我: **[您的邮箱地址]**
-- 😄 代词 (Pronouns): **He/Him**
-- ⚡ 有趣的事实: **[关于您的一个有趣的事实]**
+- 🌱 我最近在学习 **算法，python**
+- 🔭 我目前正在参与项目 **VideoServer**
+- 📫 如何联系我: **bilibili14@outlook.com**
+- ⚡ 有趣的事实: **有趣**
 
 ---
 
@@ -57,7 +47,7 @@ Here are some ideas to get you started:
 -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,python,django,mysql,redis,docker,kubernetes,linux,git,idea,vscode&perline=6" />
+    <img src="https://skillicons.dev/icons?i=java,python,linux,git,vscode&perline=6" />
   </a>
 </p>
 
@@ -86,9 +76,9 @@ Here are some ideas to get you started:
   您可以从 https://simpleicons.org/ 找到更多图标。
 -->
 <p align="center">
-  <a href="[您的B站链接]" target="_blank"><img src="https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili"></a>
-  <a href="mailto:[您的邮箱地址]" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="[您的个人博客或网站链接]" target="_blank"><img src="https://img.shields.io/badge/Website-4A90E2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
+  <a href="https://space.bilibili.com/3546744627399580?spm_id_from=333.1007.0.0" target="_blank"><img src="https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili"></a>
+  <a href="mailto:bilibili14@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://blog.csdn.net/x533003981?spm=1000.2115.3001.5343" target="_blank"><img src="https://img.shields.io/badge/Website-4A90E2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
 </p>
 
 <!-- 访客数量统计，可选 -->
