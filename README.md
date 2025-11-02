@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <!-- 个人简介 -->
 <p align="center">
-  hallo happy party!!!
+  hallo🎵 happy🎶 poppin'party!!!
 </p>
 
 ---
